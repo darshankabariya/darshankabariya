@@ -1,7 +1,5 @@
 <div align="center">
 
-# Darshan Kabariya
-
 <sub>Open-source engineer — building in the open</sub>
 
 </div>
